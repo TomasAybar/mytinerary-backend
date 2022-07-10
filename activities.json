@@ -1,0 +1,105 @@
+[
+    {
+        
+        "name": "Bombonera",
+        "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0a/97/36/35.jpg",
+        "itinerary": "62b4b0c302683b493455e5d6",
+        "nameItinerary": "Buenos Aires Bus" 
+    },
+    {
+        
+        "name": "Panoramic view of the city",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/ca/4e/75/bus-turistico-ba.jpg?w=800&h=-1&s=1",
+        "itinerary": "62b4b0c302683b493455e5d6",
+        "nameItinerary": "Buenos Aires Bus" 
+    },
+    {
+        
+        "name": "Casa rosada",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/a7/0b/d7/photo1jpg.jpg?w=1200&h=-1&s=1",
+        "itinerary": "62b4b0c302683b493455e5d6",
+        "nameItinerary": "Buenos Aires Bus" 
+    },
+
+
+
+
+
+    {
+        
+        "name": "Road to Akropolis",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/61/85/78/acropolis-tour.jpg?w=1100&h=-1&s=1",
+        "itinerary": "62b46e0dd0a4e553fca4d485",
+        "nameItinerary": "Akropolis" 
+    },
+    {
+        
+        "name": "Acropolis Museum Tour",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/24/04/a8/bf/caption.jpg?w=1200&h=-1&s=1",
+        "itinerary": "62b46e0dd0a4e553fca4d485",
+        "nameItinerary": "Akropolis" 
+    },
+    {
+        
+        "name": "Parthenon Walking ",
+        "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/8e/7a/76.jpg",
+        "itinerary": "62b46e0dd0a4e553fca4d485",
+        "nameItinerary": "Akropolis" 
+    },
+
+
+
+
+    {
+        
+        "name": "Admire the view",
+        "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/77/f2/26.jpg",
+        "itinerary": "62c24ff20372325c2adfdd3d",
+        "nameItinerary": "Big Bus New York" 
+    },
+    {
+        
+        "name": "Explore New York City",
+        "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0b/77/f2/23.jpg",
+        "itinerary": "62c24ff20372325c2adfdd3d",
+        "nameItinerary": "Big Bus New York" 
+    },
+    {
+        
+        "name": "Night bus tour",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/78/0b/b4/caption.jpg?w=1100&h=-1&s=1",
+        "itinerary": "62c24ff20372325c2adfdd3d",
+        "nameItinerary": "Big Bus New York" 
+    },
+
+
+
+
+
+    {
+        
+        "name": "Admire the view",
+        "description": "descripcion de actividad 1",
+        "image": "https://images.unsplash.com/photo-1627156863760-f49b81d8ab77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+        "itinerary": "62b4899e12fe0e2ad622f00b",
+        "nameItinerary": "Canal Grande" 
+    },
+    {
+        
+        "name": "Rialto Bridge",
+        "description": "descripcion de actividad 2",
+        "image": "https://a.cdn-hotels.com/gdcs/production22/d667/3c863460-68ce-11e8-99fe-0242ac11000d.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+        "itinerary": "62b4899e12fe0e2ad622f00b",
+        "nameItinerary": "Canal Grande" 
+    },
+    {
+        
+        "name": "Bridge of Sighs",
+        "description": "descripcion de actividad 3",
+        "image": "https://a.cdn-hotels.com/gdcs/production125/d141/5de8a97e-d27e-4b31-b82f-c82a82be9a89.jpg?impolicy=fcrop&w=1600&h=1066&q=medium",
+        "itinerary": "62b4899e12fe0e2ad622f00b",
+        "nameItinerary": "Canal Grande" 
+    }
+]
+
+    
