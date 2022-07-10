@@ -245,7 +245,7 @@ const userControllers = {
         if (user) {
             user.verification = true // si existe cambia la verificacion a true
             await user.save()
-            res.redirect('http://localhost:3000/signin') // redirecciona el link del mail a donde quiera
+            res.redirect('https://mytinerary-frontend-aybar.herokuapp.com/signin') // redirecciona el link del mail a donde quiera
         }
         else {
             res.json({
