@@ -37,7 +37,7 @@ const validator = (req, res, next) => {
             }),
 
         email: joi.string()
-            .email({ minDomainSegments: 2 })
+            // .email({ minDomainSegments: 2 })
             .required()
             .messages({
                 'string.email': 'Formato incorrecto de email'
