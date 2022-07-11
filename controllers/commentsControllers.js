@@ -14,7 +14,7 @@ const commentControllers = {
         }
         catch (error) {
             console.log(error)
-            res.json({ success: false, messagge: 'Algo a salido mal intentalo en unos minutos' })
+            res.json({ success: false, messagge: 'Something went wrong. Try again in a few seconds' })
         }
 
     },
@@ -30,7 +30,7 @@ const commentControllers = {
         }
         catch (error) {
             console.log(error)
-            res.json({ success: false, messagge: 'Algo a salido mal intentalo en unos minutos' })
+            res.json({ success: false, messagge: 'Something went wrong. Try again in a few seconds' })
         }
 
     },
@@ -46,7 +46,7 @@ const commentControllers = {
         }
         catch (error) {
             console.log(error)
-            res.json({ success: true, messagge: 'Algo a salido mal intentalo en unos minutos' })
+            res.json({ success: true, messagge: 'Something went wrong. Try again in a few seconds' })
         }
 
     },
